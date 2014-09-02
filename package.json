@@ -1,8 +1,8 @@
 {
   "name": "deland-test-npm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a practice for building my own node module",
-  "main": "index.js",
+  "main": "./lib",
   "scripts": {
     "test": "make test"
   },
