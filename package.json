@@ -18,5 +18,9 @@
   "devDependencies": {
     "mocha": "^1.21.4",
     "chai": "^1.9.1"
+  },
+  "private": true,
+  "dependencies": {
+    "vows": "^0.7.0"
   }
 }
